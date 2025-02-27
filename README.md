@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e8318&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Rodrigues+;I'm+33+years+old;I+am+from+Rio+de+Janeiro,+RJ;I+Graduated+analysis+and+systems+development+at+UVA.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-![LordHiperion](https://github-readme-stats.vercel.app/api?username=LordHiperion&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
+![LordHiperion](https://github-readme-stats.vercel.app/api?username=FernandoRodrigues91&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
   ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@
 
   ##
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordHiperion&layout=compact&hide=PHP&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&hide=PHP&theme=merko)
 
   ##
 
