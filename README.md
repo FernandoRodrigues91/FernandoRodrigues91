@@ -98,11 +98,11 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 </div>
 
 <div align="center">
-  <img width="496em" src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318"/>
+  <img width="496" src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FernandoRodrigues91&theme=darkhub&no-frame=true&row=1&column=6&title_color=1e8318"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FernandoRodrigues91&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
 <div align="center">
