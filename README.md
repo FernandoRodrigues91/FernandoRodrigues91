@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=1e8318&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernando+Rodrigues!;Desenvolvedor+Front-End;Apaixonado+por+Angular+e+TypeScript;Formado+em+ADS+pela+UVA;Bem-vindo+ao+meu+perfil!+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=1e8318&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernando+Rodrigues!;Desenvolvedor+Front-End;Apaixonado+por+Angular+e+TypeScript;Formado+em+ADS+pela+UVA;Bem-vindo+ao+meu+perfil!+🚀"/>
   </a>
 </div>
 
@@ -98,15 +98,15 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318" alt="GitHub Streak"/>
+  <img width="496em" src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FernandoRodrigues91&theme=darkhub&no-frame=true&row=1&column=6&title_color=1e8318" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FernandoRodrigues91&theme=darkhub&no-frame=true&row=1&column=6&title_color=1e8318"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoRodrigues91&bg_color=0d1117&color=1e8318&line=1e8318&point=ffffff&area=true&hide_border=false&border_color=1e8318" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoRodrigues91&bg_color=0d1117&color=1e8318&line=1e8318&point=ffffff&area=true&border_color=1e8318"/>
 </div>
 
 ---
@@ -115,7 +115,7 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 
 <div align="center">
   <a href="mailto:fernando91junior@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/fernando-rodrigues-de-almeida-junior-361861241" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -129,10 +129,10 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 
 ## 🐍 Contribuições
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandorodrigues91/fernandorodrigues91/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandorodrigues91/fernandorodrigues91/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandorodrigues91/fernandorodrigues91/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandorodrigues91/fernandorodrigues91/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e8318&height=120&section=footer"/>
