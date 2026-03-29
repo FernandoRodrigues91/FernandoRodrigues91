@@ -83,8 +83,8 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=86400&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=86400&rank_icon=github&v=2"/>
+  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=86400&v=2"/>
 </div>
 
 <div align="center">
