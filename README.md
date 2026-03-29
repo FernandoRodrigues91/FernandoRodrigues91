@@ -83,14 +83,14 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=86400&rank_icon=github&v=2"/>
+  <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=86400&rank_icon=github&v=2"/>
   <img height="180em" src="https://github-readme-stats-fernandorodrigues91s-projects.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=86400&v=2"/>
 </div>
 
 <div align="center">
   <img width="496" src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318"/>
 </div>
-
+ 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoRodrigues91&bg_color=0d1117&color=1e8318&line=1e8318&point=ffffff&area=true&border_color=1e8318"/>
 </div>
