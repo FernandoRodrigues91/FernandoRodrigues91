@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e8318&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e8318&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e8318&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernando+Rodrigues!;Desenvolvedor+Front-End;Apaixonado+por+Angular+e+TypeScript;Formado+em+ADS+pela+UVA;Bem-vindo+ao+meu+perfil!+🚀)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=1e8318&size=32&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernando+Rodrigues!;Desenvolvedor+Front-End;Apaixonado+por+Angular+e+TypeScript;Formado+em+ADS+pela+UVA;Bem-vindo+ao+meu+perfil!+🚀"/>
+  </a>
+</div>
 
 ---
 
@@ -13,28 +17,23 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Front-End
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img alt="Angular Material" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg">
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-</div>
+<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+<img alt="Angular Material" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg">
+<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+<img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
 
 ### Back-End & Banco de Dados
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-</div>
+<img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 
 ### Testes & Versionamento
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg">
-  <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-</div>
+<img alt="Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg">
+<img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
 
 ---
 
@@ -94,18 +93,27 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=86400&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=86400"/>
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FernandoRodrigues91&theme=darkhub&no-frame=true&row=1&column=6&title_color=1e8318" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoRodrigues91&bg_color=0d1117&color=1e8318&line=1e8318&point=ffffff&area=true&hide_border=false&border_color=1e8318" alt="Activity Graph"/>
 </div>
 
 ---
 
 ## 📬 Contato
 
-<div>
+<div align="center">
   <a href="mailto:fernando91junior@outlook.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/>
   </a>
@@ -127,4 +135,4 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandorodrigues91/fernandorodrigues91/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e8318&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e8318&height=120&section=footer"/>
