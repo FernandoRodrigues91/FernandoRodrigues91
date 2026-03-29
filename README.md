@@ -94,8 +94,8 @@ Sou desenvolvedor **Front-End** com foco em **Angular**, apaixonado por construi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoRodrigues91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=1e8318&icon_color=1e8318&title_color=1e8318&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRodrigues91&layout=compact&langs_count=7&theme=dark&border_color=1e8318&title_color=1e8318&cache_seconds=1800"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FernandoRodrigues91&theme=dark&border=1e8318&ring=1e8318&fire=1e8318&currStreakLabel=1e8318&sideLabels=1e8318" alt="GitHub Streak"/>
